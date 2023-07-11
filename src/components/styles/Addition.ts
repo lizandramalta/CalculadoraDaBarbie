@@ -1,3 +1,4 @@
-export function addNumbers(a: number, b: number): string {
-  return `(${a}) + (${b})`;
+export function addNumbers(a: number, b: number): number {
+    return a + b;
 }
+

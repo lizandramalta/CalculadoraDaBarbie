@@ -16,7 +16,7 @@ test('Deve somar corretamente dois números inteiros', () => {
     const expectedExpression = '(2) + (6)';
     expect(result).toBe(expectedExpression);
 });
-  
+    
   
   
   
